@@ -11,7 +11,9 @@ python helloworld.py
 
 
 Installing QT for python
-pip install PyQt5
+sudo apt-get install python3-pyqt5
+
+
 
 
 Recommended- PyCharm!
