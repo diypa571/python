@@ -10,9 +10,10 @@ python helloworld.py
 
 
 
-Installing QT for python
-sudo apt-get install python3-pyqt5
-
+QT for python
+1- sudo apt-get install python3-pyqt5
+2- sudo apt-get install pyqt5-dev-tools
+3- sudo apt-get install qttools5-dev-tools
 
 
 
