@@ -9,5 +9,10 @@ pip3 --version
 python helloworld.py
 
 
+
+Installing QT for python
+pip install PyQt5
+
+
 Recommended- PyCharm!
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux
