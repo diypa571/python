@@ -15,6 +15,9 @@ QT for python
 2- sudo apt-get install pyqt5-dev-tools
 3- sudo apt-get install qttools5-dev-tools
 
+Start ::::
+diypa571@diypa:~$ qtchooser -run-tool=designer -qt=5
+qtchooser -run-tool=designer -qt=5
 
 
 Recommended- PyCharm!
