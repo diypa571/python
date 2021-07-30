@@ -19,6 +19,9 @@ Start ::::
 diypa571@diypa:~$ qtchooser -run-tool=designer -qt=5
 qtchooser -run-tool=designer -qt=5
 
+converting ui to py
+pyuic5 -x si.ui -o si.py
+
 
 Recommended- PyCharm!
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux
